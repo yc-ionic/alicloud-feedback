@@ -1,0 +1,23 @@
+{
+  "name": "@yci/alicloud-feedback",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yc-ionic/alicloud-feedback.git"
+  },
+  "author": {
+    "name": "Yu Chen",
+    "email": "yu.chen@live.ie"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yc-ionic/alicloud-feedback.git/issues"
+  },
+  "main": "yci-alicloud-feedback.umd.js",
+  "module": "yci-alicloud-feedback.js",
+  "jsnext:main": "yci-alicloud-feedback.js",
+  "typings": "yci-alicloud-feedback.d.ts"
+}
